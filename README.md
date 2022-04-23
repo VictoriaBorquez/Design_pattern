@@ -2,8 +2,8 @@
 
 Implementaciones simples de patrones de diseño con **Java**.
 ## Clasificación patrones de diseño
-- **Creacional**: Proporcionan mecanismos de creación de objetos ue incrementan la flexibilidad y la reutilización de código.
-- **Estructural**: Explican cómo ensamblar objetos y clases en estructuras más grandes, manteniendo flexibilidad  eficiencia de la estructura.
+- **Creacional**: Proporcionan mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización de código.
+- **Estructural**: Explican cómo ensamblar objetos y clases en estructuras más grandes, manteniendo flexibilidad y eficiencia de la estructura.
 - **De comportamiento**: Se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
 
 ### Strategy
@@ -35,7 +35,7 @@ Patrón de diseño **de comportamiento** que convierte una solicitud en un objet
 </td></tr></table>
 
 ### Adapter
-Patrón de diseño **estructural** que permite la colaboración entre objetos on interfaces incompatibles.
+Patrón de diseño **estructural** que permite la colaboración entre objetos con interfaces incompatibles.
 
 
 <table><tr><td>
