@@ -6,25 +6,25 @@ Implementaciones simples de patrones de diseño con **Java**.
 - **Estructural**: Explican cómo ensamblar objetos y clases en estructuras más grandes, manteniendo flexibilidad  eficiencia de la estructura.
 - **De comportamiento**: Se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
 
-## Strategy
+### Strategy
 Patrón de diseño **de comportamiento** que permite definir familias de algoritmos en clases separadas y que sus objetos sean intercambiables.
 
 ![Markdown image](/images/Strategy.png)
 
 
-## Abstract Factory
+### Abstract Factory
 Patrón de diseño **creacional** que permite producir familias de objetos relacionados sin especificar sus clases concretas.
 
 ![Markdown image](/images/Abstract_factory.png)
 
 
-## Command
+### Command
 Patrón de diseño **de comportamiento** que convierte una solicitud en un objeto independiente que contiene toda la información sobre la solicitud.
 
 ![Markdown image](/images/Command.png)
 
 
-## Adapter
+### Adapter
 Patrón de diseño **estructural** que permite la colaboración entre objetos on interfaces incompatibles.
 
 ![Markdown image](/images/Adapter.png)
@@ -36,3 +36,6 @@ Escribir en terminal:
 
 javac TestMain.java
 java TestMain
+
+## Autor ✒️
+- Victoria Bórquez
